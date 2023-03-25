@@ -1,0 +1,19 @@
+.eins {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+
+.eins.drei {
+    font-size: 24px;
+}
+
+#zwei {
+    color: blue;
+    font-size: 36px;
+}
+
+#vier {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
